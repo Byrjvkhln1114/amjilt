@@ -15,17 +15,7 @@ export default function Home() {
           <div className="mt-4 mb-4">Web-Global Youth Entrepreneurship:</div>
         </div>
       </a>
-      <a
-        href="
-        https://amarhanfizik-72148.web.app/
-      "
-        target="_blank"
-      >
-        <div className="border border w-[76vw] rounded-md">
-          <img src="amarhanfizik.png" alt="" />
-          <div className="mt-4 mb-4">Web-Амархан физик:</div>
-        </div>
-      </a>
+
       <a
         href="
         https://paper-rock-scissors-rouge.vercel.app/single
@@ -57,6 +47,17 @@ export default function Home() {
         <div className="border border w-[76vw] rounded-md">
           <img src="valedit.png" alt="" />
           <div className="mt-4 mb-4">Web-Valorant account collection edit</div>
+        </div>
+      </a>
+      <a
+        href="
+        https://amarhanfizik-72148.web.app/
+      "
+        target="_blank"
+      >
+        <div className="border border w-[76vw] rounded-md">
+          <img src="amarhanfizik.png" alt="" />
+          <div className="mt-4 mb-4">Web-Амархан физик:</div>
         </div>
       </a>
       <a
