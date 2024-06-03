@@ -6,19 +6,30 @@ export default function Home() {
       <h1 className="text-xl">2022-2024 Төслүүд:</h1>
       <a
         href="
-        https://tusul-jade.vercel.app/
+        https://ecoshidelplastick-33b12.web.app/
       "
         target="_blank"
       >
         <div className="border border w-[76vw] rounded-md">
-          <img src="tusul.png" alt="" />
-          <div className="mt-4 mb-4">Web-Global Youth Entrepreneurship:</div>
+          <img src="eco.png" alt="" />
+          <div className="mt-4 mb-4">Web-Эко шийдэл компанид зориулж хийсэн</div>
         </div>
       </a>
 
       <a
         href="
-        https://paper-rock-scissors-rouge.vercel.app/single
+        https://business-project-0428.vercel.app/
+      "
+        target="_blank"
+      >
+        <div className="border border w-[76vw] rounded-md">
+          <img src="tusul2.png" alt="" />
+          <div className="mt-4 mb-4">Web-Global Youth Entrepreneurship</div>
+        </div>
+      </a>
+      <a
+        href="
+        https://business-project-0428.vercel.app/single
       "
         target="_blank"
       >
@@ -62,13 +73,13 @@ export default function Home() {
       </a>
       <a
         href="
-        https://ecoshidelplastick-33b12.web.app/
+        https://tusul-jade.vercel.app/
       "
         target="_blank"
       >
         <div className="border border w-[76vw] rounded-md">
-          <img src="eco.png" alt="" />
-          <div className="mt-4 mb-4">Web-Эко шийдэл компанид зориулж хийсэн</div>
+          <img src="tusul.png" alt="" />
+          <div className="mt-4 mb-4">Web-Global Youth Entrepreneurship:</div>
         </div>
       </a>
     </main>
